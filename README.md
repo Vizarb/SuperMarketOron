@@ -11,4 +11,4 @@ Clone the repository and navigate to the project directory.
 Start the JSON server by running the following command:
 
 ```bash
-json-server --watch products.json --port 3000
+npx json-server products.json
