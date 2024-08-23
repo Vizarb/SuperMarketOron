@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "name": "Organic Apples",
+      "category": "Fruits",
+      "description": "Crisp, fresh organic apples, perfect for a healthy snack.",
+      "price": 3.99,
+      "categoryImage": "https://assets.lummi.ai/assets/QmXv82tD8ZNjYjD2dD9b6AGHUHCWmihouPCPkxtX6o818v?auto=format&w=1500",
+      "productImage": "image/apple-1702316_960_720.jpg",
+      "id": "aedc"
+    },
+    {
+      "name": "Whole Wheat Bread",
+      "category": "Bakery",
+      "description": "Nutritious whole wheat bread, baked fresh daily.",
+      "price": 2.49,
+      "categoryImage": "https://assets.lummi.ai/assets/QmSGUpBhRBEfDhuhT6Fa3CR2qQriAm17Ta9nkxrjGCFrA3?auto=format&w=1500",
+      "productImage": "https://media.istockphoto.com/id/1223423223/photo/wholegrain-and-seeds-sliced-bread.jpg?s=2048x2048&w=is&k=20&c=LloOVmbmHRAsCVr2lV6wErXrqEuGF4gqbW0AKFMlLIQ=",
+      "id": "6e5c"
+    },
+    {
+      "name": "Free-range Eggs",
+      "category": "Dairy",
+      "description": "Large eggs from free-range chickens, rich in flavor.",
+      "price": 4.29,
+      "categoryImage": "https://media.istockphoto.com/id/910881428/photo/dairy-products-shot-on-rustic-wooden-table.jpg?s=2048x2048&w=is&k=20&c=xzvrHqgNqgWZDQ6caCo1iUiUFdxH8K_DCU8Rwntmy5c=",
+      "productImage": "images/products/free_range_eggs.jpg",
+      "id": "8a6d"
+    },
+    {
+      "name": "Almond Milk",
+      "category": "Beverages",
+      "description": "Silky smooth almond milk, a great dairy-free alternative.",
+      "price": 3.19,
+      "categoryImage": "https://media.istockphoto.com/id/171366863/photo/refrigerated-foods.jpg?s=2048x2048&w=is&k=20&c=8WbfG42djktZEogtdfqevvv2Db1-8GOHuqymg9mhqsc=",
+      "productImage": "images/products/almond_milk.jpg",
+      "id": "6881"
+    },
+    {
+      "name": "Chicken Breast",
+      "category": "Meat",
+      "description": "Boneless, skinless chicken breast, lean and protein-packed.",
+      "price": 6.99,
+      "categoryImage": "https://media.istockphoto.com/id/171154555/photo/meat-department-in-a-supermarket.jpg?s=2048x2048&w=is&k=20&c=r7p7SwxQVsQZyaEMXqFc0cixc8M56lfUMVlLD1dBKsQ=",
+      "productImage": "images/products/chicken_breast.jpg",
+      "id": "7282"
+    },
+    {
+      "name": "Brown Rice",
+      "category": "Grains",
+      "description": "Whole grain brown rice, a healthy and versatile staple.",
+      "price": 1.89,
+      "categoryImage": "https://cdn.pixabay.com/photo/2024/08/16/19/16/lentils-8974508_960_720.jpg",
+      "productImage": "images/products/brown_rice.jpg",
+      "id": "19e2"
+    },
+    {
+      "name": "Tomatoes",
+      "category": "Vegetables",
+      "description": "Juicy, ripe tomatoes, great for salads and cooking.",
+      "price": 2.49,
+      "categoryImage": "https://cdn.pixabay.com/photo/2016/04/10/12/54/vegetables-1319821_1280.png",
+      "productImage": "images/products/tomatoes.jpg",
+      "id": "e898"
+    },
+    {
+      "name": "Greek Yogurt",
+      "category": "Dairy",
+      "description": "Thick and creamy Greek yogurt, high in protein.",
+      "price": 5.99,
+      "categoryImage": "https://media.istockphoto.com/id/910881428/photo/dairy-products-shot-on-rustic-wooden-table.jpg?s=2048x2048&w=is&k=20&c=xzvrHqgNqgWZDQ6caCo1iUiUFdxH8K_DCU8Rwntmy5c=",
+      "productImage": "images/products/greek_yogurt.jpg",
+      "id": "ebb1"
+    },
+    {
+      "name": "Orange Juice",
+      "category": "Beverages",
+      "description": "Freshly squeezed orange juice, full of vitamin C.",
+      "price": 4.59,
+      "categoryImage": "https://media.istockphoto.com/id/171366863/photo/refrigerated-foods.jpg?s=2048x2048&w=is&k=20&c=8WbfG42djktZEogtdfqevvv2Db1-8GOHuqymg9mhqsc=",
+      "productImage": "images/products/orange_juice.jpg",
+      "id": "fc2c"
+    },
+    {
+      "name": "Chocolate Chip Cookies",
+      "category": "Snacks",
+      "description": "Deliciously sweet chocolate chip cookies, a classic treat.",
+      "price": 3.49,
+      "categoryImage": "https://cdn.pixabay.com/photo/2023/01/08/14/22/sweets-7705343_1280.jpg",
+      "productImage": "images/products/chocolate_chip_cookies.jpg",
+      "id": "95ff"
+    }
+  ],
+  "cart": [
+  ]
+}
